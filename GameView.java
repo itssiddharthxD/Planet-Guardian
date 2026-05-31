@@ -152,7 +152,7 @@ public class GameView extends JPanel {
 		// Title
 		g2d.setFont(new Font("Consolas", Font.BOLD, 36));
 		g2d.setColor(new Color(0, 220, 200));
-		String title = "ORBITAL GUARDIAN";
+		String title = "PLANET GUARDIAN";
 		FontMetrics fm = g2d.getFontMetrics();
 		g2d.drawString(title, (GameModel.WIDTH - fm.stringWidth(title)) / 2, 280);
 
