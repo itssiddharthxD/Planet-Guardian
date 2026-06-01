@@ -5,7 +5,7 @@ import javax.swing.*;
 public class PlanetGuardian extends JFrame {
 
 	public PlanetGuardian() {
-		setTitle("Orbital Guardian");
+		setTitle("Planet Guardian");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setResizable(false);
 
